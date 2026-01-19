@@ -134,5 +134,11 @@
       "youtube": "https://www.youtube.com/@demtoshq",
       "website": "https://clip.demtos.com"
     }
+  },
+  "integrations": {
+    "posthog": {
+      "apiKey": "phc_MCJgDtuIAINvLfQF8xej7jruddGEhr30yXkMO3cNz2o",
+      "apiHost": "https://us.i.posthog.com"
+    }
   }
 }
