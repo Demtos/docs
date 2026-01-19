@@ -31,8 +31,14 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
               "guides/getting-started/sign-up-and-log-in"
+            ]
+          },
+          {
+            "group": "Submit Your Videos",
+            "pages": [
+              "guides/submit-your-videos/untitled-page-1",
+              "guides/submit-your-videos/untitled-page"
             ]
           },
           {
@@ -61,10 +67,6 @@
           },
           {
             "group": "Customize Your Clips",
-            "pages": []
-          },
-          {
-            "group": "Submit Your Videos",
             "pages": []
           }
         ]
