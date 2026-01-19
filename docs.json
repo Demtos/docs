@@ -35,28 +35,36 @@
             ]
           },
           {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
+            "group": "Other Questions",
+            "pages": []
           },
           {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
+            "group": "Billing & Payment",
+            "pages": []
           },
           {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
+            "group": "Account Management",
+            "pages": []
+          },
+          {
+            "group": "Manage Your Clip",
+            "pages": []
+          },
+          {
+            "group": "Edit Your Clips",
+            "pages": []
+          },
+          {
+            "group": "Get Your Clips",
+            "pages": []
+          },
+          {
+            "group": "Customize Your Clips",
+            "pages": []
+          },
+          {
+            "group": "Submit Your Videos",
+            "pages": []
           }
         ]
       },
