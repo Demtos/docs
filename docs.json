@@ -31,7 +31,8 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart"
+              "quickstart",
+              "guides/getting-started/sign-up-and-log-in"
             ]
           },
           {
@@ -92,13 +93,17 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/light.svg"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
         "href": "mailto:hello@demtos.com"
+      },
+      {
+        "label": "Dashboard",
+        "href": "https://app.clip.demtos.com"
       }
     ],
     "primary": {
