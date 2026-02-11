@@ -49,7 +49,10 @@
           },
           {
             "group": "Billing & Payment",
-            "pages": []
+            "pages": [
+              "how-do-credits-work",
+              "untitled-page"
+            ]
           },
           {
             "group": "Account Management",
