@@ -33,14 +33,16 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "guides/getting-started/sign-up-and-log-in"
+              "guides/getting-started/sign-up-and-log-in",
+              "guides/getting-started/i-didnt-receive-my-verification-email"
             ]
           },
           {
             "group": "Submit Your Videos",
             "pages": [
               "guides/submit-your-videos/untitled-page-1",
-              "guides/submit-your-videos/untitled-page"
+              "guides/submit-your-videos/untitled-page",
+              "guides/submit-your-videos/how-long-does-processing-take"
             ]
           },
           {
