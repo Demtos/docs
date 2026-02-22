@@ -62,7 +62,11 @@
           },
           {
             "group": "Manage Your Clip",
-            "pages": []
+            "pages": [
+              "edit-captions",
+              "download-transcripts",
+              "download-devotionals-summaries-and-clips"
+            ]
           },
           {
             "group": "Edit Your Clips",
